@@ -4990,7 +4990,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5002,7 +5002,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5014,7 +5014,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5025,7 +5025,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5037,7 +5037,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5048,7 +5048,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5059,7 +5059,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5071,7 +5071,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5083,7 +5083,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5095,7 +5095,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5107,7 +5107,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5119,7 +5119,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5131,7 +5131,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5143,7 +5143,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5155,7 +5155,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5167,7 +5167,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5179,7 +5179,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5191,7 +5191,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 5 === 1 && seconds === 13) {
+		if (minutes % 10 === 1 && seconds === 13) {
 			_this.gotoAndPlay('1');
 		}
 		_this.gotoAndPlay('355');
