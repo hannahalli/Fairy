@@ -1,0 +1,27 @@
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const fairy1Frame = document.createElement("iframe");
+    fairy1Frame.src = "./fairy-1.html";
+    fairy1Frame.style.position = "absolute";
+    fairy1Frame.style.top = "0";
+    fairy1Frame.style.left = "0";
+    fairy1Frame.style.width = "100%";
+    fairy1Frame.style.height = "100%";
+    fairy1Frame.style.border = "none";
+    fairy1Frame.style.display = "none"; // Initially hidden
+
+    document.body.appendChild(fairy1Frame);
+
+    setInterval(() => {
+        const d = new Date();
+        const minutes = d.getMinutes();
+        const seconds = d.getSeconds();
+
+        if (minutes % 5 === 0 && seconds % 36 === 0) {
+            fairy1Frame.style.display = "block";
+        } else {
+            fairy1Frame.style.display = "none";
+        }
+    }, 1000); // Check every second
+});
+</script>

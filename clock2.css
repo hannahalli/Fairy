@@ -1,0 +1,64 @@
+#clockContainer {
+    position: relative;
+    margin: none;
+    background-size: 100%;
+    background-color: transparent; 
+}
+
+iframe#backgroundFrame {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none; /* Remove iframe border */
+    z-index: 10;
+}
+
+#hour,
+#minute,
+#second {
+    position: absolute;
+    background: transparent;
+    border-radius: 10px;
+    transform-origin: bottom;
+}
+
+#hour {
+    width: 35px; /* Adjust width of hour hand image */
+    height: 150px; /* Adjust height of hour hand image */
+    top: 410px;
+    left: 355px;
+    background-image: url("hourHand.png"); /* Replace with path to hour hand image */
+    background-size: contain; /* Adjust image size to fit */
+}
+
+#minute {
+    width: 27px; /* Adjust width of minute hand image */
+    height: 190px; /* Adjust height of minute hand image */
+    top: 372px;
+    left: 360px;
+    background-image: url("minuteHand.png"); /* Replace with path to minute hand image */
+    background-size: contain; /* Adjust image size to fit */
+}
+
+#second {
+    background-color: #663300;
+    width: 6.75px;
+    height: 155px;
+    top: 415px;
+    left: 375px;
+}
+
+#imageOverlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0; /* Initially hidden */
+    background-image: url("hi.png"); /* Replace with your image path */
+    background-size: cover; /* Adjust image size as needed */
+    background-repeat: no-repeat; /* Prevent image tiling */
+    z-index: 1; /* Ensure image appears on top of clock hands */
+}
