@@ -19,4 +19,4 @@ setInterval(() => {
                 second.style.display = 'block';
             }, 60000);
         }
-}, 1000);
+    }, 1000);
