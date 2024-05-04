@@ -13,7 +13,7 @@ setInterval(() => {
     minute.style.transform = `rotate(${min_rotation}deg)`;
     second.style.transform = `rotate(${sec_rotation}deg)`;
 
-    if (min % 2 === 0 && sec === 45) {
+    if (min % 10 === 0 && sec === 45) {
             second.style.display = 'none';
             setTimeout(() => {
                 second.style.display = 'block';
