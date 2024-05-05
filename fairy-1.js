@@ -4990,7 +4990,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5002,7 +5002,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5014,7 +5014,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5025,7 +5025,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5037,7 +5037,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5048,7 +5048,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 20 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5059,7 +5059,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5071,7 +5071,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5083,7 +5083,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5095,7 +5095,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5107,7 +5107,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5119,7 +5119,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5131,7 +5131,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5143,7 +5143,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5155,7 +5155,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5167,7 +5167,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5179,7 +5179,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 	}
@@ -5191,7 +5191,7 @@ if (reversed == null) { reversed = false; }
 		const minutes = d.getMinutes();
 		const seconds = d.getSeconds();
 		
-		if (minutes % 10 === 1 && seconds === 13) {
+		if (minutes % 5 === 1 && seconds === 17) {
 			_this.gotoAndPlay('1');
 		}
 		_this.gotoAndPlay('355');
@@ -5504,14 +5504,14 @@ an.makeResponsive = function(isResp, respDim, isScale, scaleType, domContainers)
 	var lastW, lastH, lastS=1;		
 	window.addEventListener('resize', resizeCanvas);		
 	resizeCanvas();		
-	function resizeCanvas() {			
+	function resizeCanvas() {		
 		var w = lib.properties.width, h = lib.properties.height;			
 		var iw = window.innerWidth, ih=window.innerHeight;			
 		var pRatio = window.devicePixelRatio || 1, xRatio=iw/w, yRatio=ih/h, sRatio=1;			
 		if(isResp) {                
 			if((respDim=='width'&&lastW==iw) || (respDim=='height'&&lastH==ih)) {                    
 				sRatio = lastS;                
-			}				
+			}			
 			else if(!isScale) {					
 				if(iw<w || ih<h)						
 					sRatio = Math.min(xRatio, yRatio);				
