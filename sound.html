@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Audio Player</title>
+</head>
+<body>
+
+<audio id="audio" controls>
+  Your browser does not support the audio element.
+</audio>
+
+<script>
+function playAudio() {
+    var audio = document.getElementById("audio");
+    audio.src = "sounds/fairydelicatebells4.mp3"; // Replace "your_uploaded_audio_file.mp3" with the actual filename
+    audio.play();
+}
+
+// Function to play audio every 5 minutes
+function playEveryFiveMinutes() {
+    var currentTime = new Date();
+    var minutes = currentTime.getMinutes();
+    var seconds = currentTime.getSeconds();
+    
+    // Check if the current minute is 3, 8, 13, etc.
+    if (minutes % 5 === 3 && seconds === 1) {
+        playAudio();
+    }
+}
+
+// Call the function every second to check for the current time
+setInterval(playEveryFiveMinutes, 1000);
+</script>
+
+</body>
+</html>
